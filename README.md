@@ -7,63 +7,52 @@
     ██    ██    ██     ██        ██        ██   ██    ██ ██    ██ ██    ██
     ██    ██    ██     ██        ██        ██   ██    ██ ██████   ██    ██
                                                                           
-Got you, bro. LinkedIn’s "About" section and posts don't support true Markdown (like bolding or tables), so I’ve converted this into a LinkedIn-compatible format using Unicode characters for bold/italic effects and a clean, scannable structure.
+# 🏥 MEDICINE & CODE 💻
 
-Copy and paste this directly:
+### **Pharmacist & Medical Student | 🤖 Backend Automation & Cybersecurity Engineer**
+> *“Medicine teaches us to save lives; Code teaches us to scale the solution.”*
 
-🏥 MEDICINE & CODE 💻
-Pharmacist & Medical Student | 🤖 Backend Automation & Cybersecurity Engineer
-Bridging Healthcare Precision with Tactical AI & Autonomous Intelligence
+---
 
-I am a technical innovator at Ideoversity, building the "digital nervous system" for modern challenges. My work spans from humanitarian AI response systems to high-stakes cybersecurity monitoring, all powered by Python and advanced automation.
+### 🚀 Technical Milestones & "The Marathon"
+- ⚡ **4-Project Sprint**: Engineered & deployed 4 full-scale automation projects in one continuous session.
+- 🔗 **Workflow Architect**: Enterprise-grade Excel-to-PDF pipeline via **n8n** & **CloudConvert API**.
+- 🛡️ **Cybersecurity**: Developed **Vanguard-Thor** (Canary traps & IP-to-Geo intel).
+- 🗣️ **Conversational UX**: Automated scheduling systems via **Dialogflow**.
+- 👁️ **Computer Vision**: Redact marker removal via geometric masking & inpainting.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🚀 TECHNICAL MILESTONES & "THE MARATHON"
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
-⚡ 4-Project Sprint: Successfully engineered and deployed four full-scale automation projects in a single, continuous technical session.
+### 🛠️ Specialized Tech Stack
 
-🔗 Workflow Architect: Developed an enterprise-grade Excel-to-PDF pipeline using n8n and CloudConvert API.
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Logic & Coding** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Agentic AI** | ![LangGraph](https://img.shields.io/badge/LangGraph-🦜-black) ![Dialogflow](https://img.shields.io/badge/Dialogflow-FFCCBC?style=flat-square&logo=google-cloud&logoColor=black) ![MCP](https://img.shields.io/badge/MCP-Protocol-blue) |
+| **Ops & Deploy** | ![n8n](https://img.shields.io/badge/n8n-FF6D5B?style=flat-square&logo=n8n&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-131415?style=flat-square&logo=railway&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| **Media & Vision** | ![Premiere Pro](https://img.shields.io/badge/Adobe_Premiere-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
 
-🛡️ Cybersecurity Researcher: Built Vanguard-Thor, a digital security system utilizing canary traps and IP-to-Geo intelligence for reconnaissance.
+---
 
-🗣️ Conversational UX: Designed automated scheduling and appointment systems via Dialogflow.
+### 🌟 Project Portfolio
+- 🛰️ **Zulfiqar-OS**: Tactical AI command center for terrain analysis.
+- 🛡️ **Vanguard-Thor**: Digital security system for real-time intruder tracking.
+- 🚒 **Gul Plaza Fire-Watch**: Humanitarian AI for fire detection & safety.
+- 🚗 **BWM-Pilot-Car**: Logistics application for pilot car services.
+- 📡 **Sentinel Defense Hub**: Strategic video feed analysis tool.
 
-👁️ Computer Vision: Engineered a pipeline to remove redact markers from digital documents using geometric masking.
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🛠️ SPECIALIZED TECH STACK
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### 📊 Github Stats & Activity
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=tybaasuleman-blip&show_icons=true&theme=radical&hide_border=true" width="400" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tybaasuleman-blip&layout=compact&theme=radical&hide_border=true" width="300" alt="Langs" />
+</p>
 
-🔹 Logic & Coding: Python, FastAPI, SQL, Geometric Masking
-🔹 Agentic AI: LangGraph, MCP, Dialogflow, NLP
-🔹 Deployment & Ops: n8n, Railway, Streamlit, CloudConvert API
-🔹 Design & Restoration: Adobe Premiere Pro, Inpainting, Computer Vision
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🌟 PROJECT PORTFOLIO (Featured Deployments)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### 🤝 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tybaasuleman)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tybaasuleman@gmail.com)
 
-📍 Zulfiqar-OS: Tactical AI command center for terrain analysis, deployed on Railway.
-📍 Vanguard-Thor: Digital security monitoring system designed to track intruders in real-time.
-📍 Gul Plaza Fire-Watch Agent: Humanitarian AI for fire detection and route optimization.
-📍 BWM-Pilot-Car: Specialized logistics application for pilot car services.
-📍 Sentinel Defense Hub: Real-time monitoring tool for strategic video feed analysis.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-📝 RECENT PROFESSIONAL HIGHLIGHTS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🧪 Bridging Medicine & Tech: How pharmaceutical precision informs cleaner backend logic.
-🛡️ Deploying Vanguard-Thor: A deep dive into using digital traps for perimeter security.
-🚒 AI for Humanity: The architecture behind the Gul Plaza Fire-Watch Agent.
-🏗️ Building in Public: Documentation of my n8n and LangGraph automation pipelines.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🤝 CONNECT WITH ME
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-💼 LinkedIn: /in/tybaasuleman
-📧 Email: tybaasuleman@gmail.com
-
-"Medicine teaches us to save lives; Code teaches us to scale the solution."
+---
