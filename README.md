@@ -39,7 +39,7 @@
 * **Sentinel Defense Hub:** An advanced monitoring tool leveraging computer vision for strategic video feed analysis.
 * **[Personal-Automation-Agent](https://github.com/tybaasuleman-blip/Personal-Automation-Agent):** Python-based agent for secure, automated email communication and task logging.
 * **Daily Weather Bot:** Automated data-fetching system providing professional email summaries via OpenWeather API.
-* **Appointment Booking Bot:** A conversational AI built with Dialogflow to manage scheduling, confirmations, and reminders.
+* **Appointment Booking Bot:** A conversational AI built with Dialogflow to manage scheduling and confirmations.
 
 ---
 
@@ -52,6 +52,10 @@
 ---
 
 ### 📊 Performance & Activity
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tybaasuleman-blip&label=PROFILE+VIEWS&color=ff4b4b&style=flat" alt="Profile Views" />
+</p>
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=tybaasuleman-blip&show_icons=true&theme=radical&hide_border=true" alt="Tayyiaba's Stats" width="400">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tybaasuleman-blip&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="300">
