@@ -28,8 +28,8 @@
 | Category | Skills & Tools |
 | :--- | :--- |
 | **Logic & Coding** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Agentic AI** | ![LangGraph](https://img.shields.io/badge/LangGraph-🦜-black) ![Dialogflow](https://img.shields.io/badge/Dialogflow-FFCCBC?style=flat-square&logo=google-cloud&logoColor=black) ![MCP](https://img.shields.io/badge/MCP-Protocol-blue) |
-| **Ops & Deploy** | ![n8n](https://img.shields.io/badge/n8n-FF6D5B?style=flat-square&logo=n8n&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-131415?style=flat-square&logo=railway&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| **Agentic AI** | ![LangGraph](https://img.shields.io/badge/LangGraph-🦜-black) ![Dialogflow](https://img.shields.io/badge/Dialogflow-FFCCBC?style=flat-square&logo=google-cloud&logoColor=black) ![n8n](https://img.shields.io/badge/n8n-FF6D5B?style=flat-square&logo=n8n&logoColor=white) |
+| **Deployment** | ![Railway](https://img.shields.io/badge/Railway-131415?style=flat-square&logo=railway&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 | **Media & Vision** | ![Premiere Pro](https://img.shields.io/badge/Adobe_Premiere-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
 
 ---
