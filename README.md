@@ -4,142 +4,97 @@
 
 ---
 
-# 🧠 System Overview
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF9F&center=true&vCenter=true&width=1000&lines=Backend+Automation+Engineer;AI+Systems+Builder;Cybersecurity+Enthusiast;Building+Autonomous+Systems" alt="Typing SVG" />
+</p>
+
+---
+
+# 👋 Hi, I'm Tayyiaba Suleman
+
+**Backend Automation Engineer | AI Systems Builder | Cybersecurity Enthusiast**
+
+I design and build **autonomous systems** that solve real-world problems with precision, scalability, and intelligence.
+
+---
+
+## ⚡ About Me
+
+I specialize in building **agentic systems, automation pipelines, and intelligent backend architectures**.
+
+### My focus:
+- 🤖 **Autonomous decision-making systems** - 🛡️ **Cybersecurity monitoring & threat intelligence** - ⚙️ **AI-powered automation pipelines** - 🌐 **Scalable backend systems** I build systems that **operate, adapt, and scale independently.**
+
+---
+
+## 🧠 Core Expertise
+
+* **Backend Development:** Python, FastAPI  
+* **AI & Agents:** n8n, LangGraph, Dialogflow  
+* **Security Engineering:** Honeypots, Canary Tokens, IP Intelligence  
+* **Automation:** API integrations, workflow orchestration  
+* **Deployment:** Railway, Streamlit, GitHub Actions  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🤖 AI & Automation
+![n8n](https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
+![Dialogflow](https://img.shields.io/badge/Dialogflow-FFCA28?style=for-the-badge)
+
+### 🚀 Deployment
+![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
+
+## 🖥️ System Status
 
 ```bash
 > Initializing profile...
-> Loading core modules...
-> Status: ONLINE
+> Loading systems...
+> Status: ACTIVE
 
 User: Tayyiaba Suleman  
 Role: AI Systems Architect  
-Focus: Autonomous Systems | Security | Automation  
+Focus: Automation | Security | Intelligence  
 
 System Output:
-- Scalable Architectures ✔  
-- Intelligent Pipelines ✔  
-- Security-First Design ✔  
-👋 Hi, I'm Tayyiaba Suleman
-
-Backend Automation Engineer | AI Systems Builder | Cybersecurity Enthusiast
-Designing autonomous systems that solve real-world problems with precision, scalability, and intelligence.
-
-⚡ About Me
-
-I specialize in building agentic systems, automation pipelines, and intelligent backend architectures using Python and modern workflow tools.
-
-My focus:
-
-Autonomous decision-making systems
-Cybersecurity monitoring & threat intelligence
-AI-powered automation pipelines
-Scalable backend infrastructure
-
-I build systems that operate, adapt, and scale independently.
-
-🧠 Core Expertise
-Backend Systems: Python, FastAPI
-Automation & Agents: n8n, LangGraph, Dialogflow
-Security Engineering: Honeypots, Canary Tokens, IP Intelligence
-Data Pipelines: API Integrations, Workflow Orchestration
-Deployment: Railway, Streamlit, GitHub Actions
-🛠️ Specialized Tech Stack
-Logic & Coding
-
-
-
-
-
-
-Agentic AI
-
-
-
-
-
-
-Deployment & Ops
-
-
-
-
-
-
-Design & Media
-
-
-
+✔ Scalable Systems  
+✔ Intelligent Pipelines  
+✔ Secure Architectures
 
 🧠 Featured Projects
-🔹 Zulfiqar-OS
+🔹 Zulfiqar-OS: Autonomous command system with real-time processing and intelligent workflows.
 
-Tactical AI command system for terrain analysis and intelligence operations
+🔹 Vanguard-Thor: Cybersecurity monitoring using honeypots, traps, and IP tracking intelligence.
 
-Autonomous workflows
-Real-time data processing
-Scalable deployment
-🔹 Vanguard-Thor
+🔹 Fire-Watch AI Agent: Fire detection system with smart alerts and emergency response automation.
 
-Cybersecurity defense system with active reconnaissance
+🔹 Sentinel Defense Hub: Computer vision system for threat detection and automated alerts.
 
-Canary traps and honeypots
-IP-to-Geo intelligence tracking
-Real-time intrusion monitoring
-🔹 Fire-Watch AI Agent
+📊 GitHub Stats
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dtayyiabasuleman%26show_icons%3Dtrue%26theme%3Dtokyonight" alt="GitHub Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dtayyiabasuleman%26theme%3Dtokyonight" alt="GitHub Streak" />
+</p>
 
-Intelligent emergency response system
-
-Fire detection pipelines
-Smart evacuation routing
-Real-time alerting
-🔹 Sentinel Defense Hub
-
-Computer vision-based monitoring system
-
-Video feed analysis
-Threat detection workflows
-Automated alert triggers
-🔹 Personal Automation Agent
-
-Secure automation system for communication and logging
-
-Email automation workflows
-Task and milestone tracking
-Python-based agent system
-📊 Performance Metrics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tybaasuleman-blip&show_icons=true&theme=radical&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=tybaasuleman-blip&theme=radical&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tybaasuleman-blip&layout=compact&theme=radical&hide_border=true" /> </p>
 📈 Activity Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=tybaasuleman-blip&theme=react-dark&hide_border=true" /> </p>
-📊 Profile Views
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tybaasuleman-blip&style=for-the-badge" /> </p>
-🔗 Engineering Philosophy
+🔗 Connect With Me
+LinkedIn: linkedin.com/in/chintominto
 
-Code should not just execute — it should adapt, respond, and evolve.
+Email: tybaasuleman@gmail.com
 
-I build systems with:
+"Build systems that don’t wait for instructions — build systems that act."
 
-Autonomy
-Scalability
-Security-first design
-Clean and maintainable architecture
-🤝 Connect
-<p align="center"> <a href="https://www.linkedin.com/in/chintominto"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /> </a> <a href="mailto:tybaasuleman@gmail.com"> <img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
-⚡ Signature
-
-Build systems that don’t wait for instructions — build systems that act.
-
-
----
-
-### ✅ What I fixed for you:
-- Entirely **Markdown-compatible**
-- No broken nesting
-- Clean sections
-- Ready to paste directly into `README.md`
-- Proper spacing + GitHub rendering safe
-
----
-
-If you want next level 🔥 (snake animation, 3D graph, hacker UI), say:
-
-👉 **“make it elite github profile”**
+<p align="center">
+<b>Automation • Intelligence • Security • Scalability</b>
+</p>
