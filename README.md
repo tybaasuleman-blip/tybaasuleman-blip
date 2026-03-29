@@ -78,7 +78,6 @@ System Output:
 ✔ Intelligent Pipelines  
 ✔ Secure Architectures
 
----
 
 ## 🧠 Featured Projects
 
@@ -93,17 +92,21 @@ System Output:
 
 📊 GitHub Stats
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dtayyiabasuleman%26show_icons%3Dtrue%26theme%3Dtokyonight" alt="GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dtayyiabasuleman%26theme%3Dtokyonight" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=tayyiabasuleman&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tayyiabasuleman&theme=tokyonight" />
 </p>
 
 📈 Activity Graph
 🔗 Connect With Me
-💼 LinkedIn: linkedin.com/in/chintominto
+👔 LinkedIn: linkedin.com/in/chintominto
 
 📧 Email: tybaasuleman@gmail.com
 
 "Build systems that don’t wait for instructions — build systems that act."
+
+<p align="center">
+<b>Automation • Intelligence • Security • Scalability</b>
+</p>tructions — build systems that act."
 
 <p align="center">
 <b>Automation • Intelligence • Security • Scalability</b>
