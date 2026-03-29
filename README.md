@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF9F&size=28&center=true&vCenter=true&width=1000&lines=Backend+Automation+Engineer;AI+Systems+Builder;Cybersecurity+Enthusiast;Building+Autonomous+Intelligence+Systems" />
+</p>
+
 # 👋 Hi, I'm Tayyiaba Suleman
 
  **Backend Automation Engineer | AI Systems Builder | Cybersecurity Enthusiast**  
