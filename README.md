@@ -119,35 +119,7 @@ I specialize in building **agentic systems, automation pipelines, and intelligen
 ✔ Secure Architectures
 
 
-## 🧠 Featured Projects
-
-| Project | Description |
-| :--- | :--- |
-| **🔹 Zulfiqar-OS** | **Autonomous Command System** • Real-time processing & intelligent workflows. |
-| **🔹 Vanguard-Thor** | **Cybersecurity Monitoring** • Honeypots, traps & IP tracking intelligence. |
-| **🔹 Fire-Watch AI** | **Fire Detection System** • Smart alerts & emergency response automation. |
-| **🔹 Sentinel Defense** | **Computer Vision System** • Threat detection & automated alerts. |
 
 ---
 
-📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tayyiabasuleman&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tayyiabasuleman&theme=tokyonight" />
-</p>
 
-📈 Activity Graph
-🔗 Connect With Me
-👔 LinkedIn: linkedin.com/in/chintominto
-
-📧 Email: tybaasuleman@gmail.com
-
-"Build systems that don’t wait for instructions — build systems that act."
-
-<p align="center">
-<b>Automation • Intelligence • Security • Scalability</b>
-</p>tructions — build systems that act."
-
-<p align="center">
-<b>Automation • Intelligence • Security • Scalability</b>
-</p>
