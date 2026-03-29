@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tayyiaba Suleman
 
-🚀 **Backend Automation Engineer | AI Systems Builder | Cybersecurity Enthusiast**  
+ **Backend Automation Engineer | AI Systems Builder | Cybersecurity Enthusiast**  
 Designing autonomous systems that solve real-world problems with precision, scalability, and intelligence.
 
 ---
