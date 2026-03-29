@@ -4,11 +4,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF9F&center=true&vCenter=true&width=1000&lines=Backend+Automation+Engineer;AI+Systems+Builder;Cybersecurity+Enthusiast;Building+Autonomous+Systems" alt="Typing SVG" />
-</p>
-
----
 
 # 👋 Hi, I'm Tayyiaba Suleman
 
@@ -67,19 +62,34 @@ User: Tayyiaba Suleman
 Role: AI Systems Architect  
 Focus: Automation | Security | Intelligence  
 
+## 🖥️ System Status
+
+```bash
+> Initializing profile...
+> Loading systems...
+> Status: ACTIVE
+
+User: Tayyiaba Suleman  
+Role: AI Systems Architect  
+Focus: Automation | Security | Intelligence  
+
 System Output:
 ✔ Scalable Systems  
 ✔ Intelligent Pipelines  
 ✔ Secure Architectures
 
-🧠 Featured Projects
-🔹 Zulfiqar-OS: Autonomous command system with real-time processing and intelligent workflows.
+---
 
-🔹 Vanguard-Thor: Cybersecurity monitoring using honeypots, traps, and IP tracking intelligence.
+## 🧠 Featured Projects
 
-🔹 Fire-Watch AI Agent: Fire detection system with smart alerts and emergency response automation.
+| Project | Description |
+| :--- | :--- |
+| **🔹 Zulfiqar-OS** | **Autonomous Command System** • Real-time processing & intelligent workflows. |
+| **🔹 Vanguard-Thor** | **Cybersecurity Monitoring** • Honeypots, traps & IP tracking intelligence. |
+| **🔹 Fire-Watch AI** | **Fire Detection System** • Smart alerts & emergency response automation. |
+| **🔹 Sentinel Defense** | **Computer Vision System** • Threat detection & automated alerts. |
 
-🔹 Sentinel Defense Hub: Computer vision system for threat detection and automated alerts.
+---
 
 📊 GitHub Stats
 <p align="center">
@@ -89,9 +99,9 @@ System Output:
 
 📈 Activity Graph
 🔗 Connect With Me
-LinkedIn: linkedin.com/in/chintominto
+💼 LinkedIn: linkedin.com/in/chintominto
 
-Email: tybaasuleman@gmail.com
+📧 Email: tybaasuleman@gmail.com
 
 "Build systems that don’t wait for instructions — build systems that act."
 
