@@ -2,6 +2,22 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF9F&size=28&center=true&vCenter=true&width=1000&lines=Backend+Automation+Engineer;AI+Systems+Builder;Cybersecurity+Enthusiast;Building+Autonomous+Intelligence+Systems" />
 </p>
 
+## 🧠 System Overview
+
+```bash
+> Initializing profile...
+> Loading core modules...
+> Status: ONLINE
+
+User: Tayyiaba Suleman  
+Role: AI Systems Architect  
+Focus: Autonomous Systems | Security | Automation  
+
+System Output:
+- Scalable Architectures ✔
+- Intelligent Pipelines ✔
+- Security-First Design ✔
+
 # 👋 Hi, I'm Tayyiaba Suleman
 
  **Backend Automation Engineer | AI Systems Builder | Cybersecurity Enthusiast**  
@@ -98,6 +114,26 @@ Secure automation system for communication and logging
 
 ---
 
+
+---
+
+# 📊 STEP 3 — ADVANCED STATS SECTION
+
+```md
+## 📊 Performance Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tybaasuleman-blip&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tybaasuleman-blip&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tybaasuleman-blip&layout=compact&theme=radical&hide_border=true" />
+</p>
+
 ## 📊 Performance & Activity
 
 <p align="center">
@@ -130,13 +166,22 @@ I build systems with:
 
 ---
 
-## 🤝 Connect With Me
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tybaasuleman-blip&theme=react-dark&hide_border=true" />
+</p>
+
+## 🤝 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chintominto">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:tybaasuleman@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
